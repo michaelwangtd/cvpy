@@ -93,12 +93,12 @@ def augment_images(img,flip_fc=1,crop_size=0.8,crop_hw_vari=0.1,rotate_angle=20,
 
 这里使用经典的莱娜·瑟德贝里图片，进行随机增强实验，生成50张图片的结果。
 
-<div align="center"><img src="http://p9wapwreo.bkt.clouddn.com/image/jpg/python/cv/aug1.png" height="100%" width="60%"/></div>
+<div align="center"><img src="http://p9wapwreo.bkt.clouddn.com/image/jpg/python/cv/aug1.png" height="100%" width="100%"/></div>
 
 进一步生成300张图片的结果
 
-<div align="center"><img src="http://p9wapwreo.bkt.clouddn.com/image/jpg/python/cv/aug2.png" height="100%" width="60%"/></div>
+<div align="center"><img src="http://p9wapwreo.bkt.clouddn.com/image/jpg/python/cv/aug2.png" height="100%" width="100%"/></div>
 
 图像变换相关结果
 
-<div align="center"><img src="http://p9wapwreo.bkt.clouddn.com/image/jpg/python/cv/aug3.png" height="100%" width="60%"/></div>
+<div align="center"><img src="http://p9wapwreo.bkt.clouddn.com/image/jpg/python/cv/aug3.png" height="100%" width="100%"/></div>
